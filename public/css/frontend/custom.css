@@ -1,0 +1,32 @@
+/**
+ * Gerenciando Contatos
+ */
+#contato { text-align: center; }
+#contato .title { color: #000; padding-top: 30px; font-size: 3em; font-weight: 500; }
+#contato .title .name { color: #000; font-weight: 700; }
+#contato .title .send { font-size: 0.9em; }
+#contato .image { margin-top: 50px; }
+#contato .desc { padding-top: 40px; color: #000; padding-bottom: 20px; font-weight: 600; font-size: 1.4em; }
+#contato .link { margin-bottom: 20px; font-weight: 500; }
+#contato .link a{ color: #000; }
+#contato .link a:hover{ text-decoration: underline; }
+
+#menu-navigate { float: left; width: 100%; } 
+#menu-navigate .content { padding: 40px 0; } 
+#menu-navigate .content section { margin-bottom: 50px; text-align: justify; }
+#menu-navigate .content .title { text-transform: uppercase; text-align: center; }
+#menu-navigate .content .subtitle { text-transform: uppercase; font-weight: 700; font-size: 1.4em; margin-top: 0; padding: 0; color: #555; }
+#menu-navigate .content .services { list-style: square; margin-left: 30px; }
+#menu-navigate .content .privacy li { list-style: decimal; margin-left: 40px; }
+#menu-navigate .content li a:hover { color: #ff871c; }
+
+#menu-navigate .faq { float: left; padding: 0; width: 100%; }
+#menu-navigate .faq a:hover { color: #ff871c; }
+#menu-navigate .faq .panel-group .panel-default { border-radius: 0; }
+#menu-navigate .faq .panel-group .panel-default .panel-heading { background-color: transparent; padding: 0; }
+#menu-navigate .faq .panel-group .panel-default .panel-heading .panel-title { font-size: 18px; padding: 20px 15px; }
+#menu-navigate .faq .panel-group .panel-default .panel-heading .panel-title a { display: block; color: #ff871c; }
+
+#aa-footer .aa-footer-top .aa-footer-top-area .aa-footer-widget .h3 { color: #fff; display: block; }
+
+#aa-product .h2 { margin: 0; padding: 0; font-size: 1.6em; }
