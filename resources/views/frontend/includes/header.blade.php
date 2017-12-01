@@ -13,10 +13,7 @@
                                 <p><span class="hidden-xs">Ligue agora:</span> <span class="fa fa-phone"></span><b>(18) 3608-5008</b></p>
                             </div>
                             <div class="cellphone hidden-xs">
-                                <p><span class="fa fa-whatsapp"></span><b>{{ trans('labels.frontend.contact.site_phone') }}</b></p>
-                            </div>
-                            <div class="cellphone hidden-xs">
-                                <p><span class="fa fa-whatsapp"></span><b>(18) 99797-1429</b></p>
+                                <p><span class="fa fa-whatsapp"></span><b>(18) 98110-4724</b></p>
                             </div>
                             <!-- / cellphone -->
                         </div>
