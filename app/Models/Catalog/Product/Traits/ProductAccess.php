@@ -19,7 +19,7 @@ trait ProductAccess
 
     public function getImagePath($type)
     {
-    	return base_path('public_html/files'.$this->image->getPath($type));
+    	return base_path('public/files'.$this->image->getPath($type));
     }
 
     public function getImageType()
